@@ -21,7 +21,7 @@ Install dependencies
 npm install
 Start development server
 npm run dev
-
+or npm start
 ### 3. Access the Application
 - Frontend: http://localhost:5173
 - Backend API: http://localhost:8000
